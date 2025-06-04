@@ -11,6 +11,9 @@ I am a simple person, who is looking for hard challenges in software engineer do
 I like uploading videos for having a knowledge tracking, in which I study and develop projects about computer architecture and algorithms, and 
 time to time I work on sharpenning some tools such as linux coreutils and vim.
 
+I am not interested in devops **(writting yamls files)**, only if is extending a certain tool, such a kubernetes csi drivers, controllers, and things that concerns understanding 
+the lower layers of this technologies. 
+
 ## 🚀 Experience
 **Eviden** - Echirolles, France
 *Software Engineer*
@@ -76,6 +79,7 @@ Bachelor in Systems and Computer Engineering; GPA: 4.39
 - **Languages**: C, C++, Bash, Java, Go, Python 
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, Linux, Vim
+- **Devops**: Debian/deb, Rhel/rpm, docker, linux (sys-admin), Kubernetes
 
 ## 🌐 Languages
 
