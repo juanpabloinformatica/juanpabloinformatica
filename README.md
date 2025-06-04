@@ -1,18 +1,27 @@
-# 👋 Hello, I'm Juan Pablo Prada Mejia
+## :wave: I'm Juan Pablo Prada Mejia
 
-**Email**: [juanpabloprada02112000@gmail.com](mailto:juanpabloprada02112000@gmail.com)  
-**Mobile**: +33 769788554  
-**Portfolio**: [personal3710049.gitlab.io/jppm_cs/myself](https://personal3710049.gitlab.io/jppm_cs/myself/)
-
+- [**Email**](mailto:juanpabloprada02112000@gmail.com)  
+- [**Portfolio**](https://personal3710049.gitlab.io/jppm_cs/myself/) 
+- [**Youtube**](https://www.youtube.com/@juanpablopradamejia827) 
+- **Mobile**: +33 769788554  
 ## 🧑‍💻 About Me
 
-I'm a passionate software engineer specializing in full-stack development and DevOps. I have proven expertise in Docker, Kubernetes, and Golang, always striving to write clean and efficient code.
+I am a simple person, who is looking for hard challenges in software engineer domain.
+
+I like uploading videos for having a knowledge tracking, in which I study and develop projects about computer architecture and algorithms, and 
+time to time I work on sharpenning some tools such as linux coreutils and vim.
 
 ## 🚀 Experience
+**Eviden** - Echirolles, France
+*Software Engineer*
+*feb 2025 - Present*
+
+- Ubuntu packing of a legacy C-based network monitoring switches project
+- Infrastructure scripts, for testing switchtes with SONIC/NOS 
 
 **Amadeus** - Villeneuve-Loubet, Provence-Alpes-Côte d’Azur, France  
-*Software Engineer | DevOps*  
-*May 2023 - Present*
+*Software Engineer*   
+*April 2024 - August 2024* 
 
 - Developed Dockerfiles for containerizing projects and utilizing them as microservices.
 - Created YAML files for CRD, CO, RBAC, and interacted with the Kubernetes API for real-time resource management.
@@ -20,7 +29,7 @@ I'm a passionate software engineer specializing in full-stack development and De
 - Developed a CSI driver to mount the FUSE filesystem as ephemeral volumes in Kubernetes pods.
 
 **Tilvest** - Paris, France  
-*Software Engineer | DevOps*  
+*Software Engineer*  
 *May 2023 - Sep 2023*
 
 - Developed a PDF generation system using HTML, CSS, SCSS, and JavaScript, integrating Handlebars for efficient document creation.
@@ -30,8 +39,15 @@ I'm a passionate software engineer specializing in full-stack development and De
 
 ## 📂 Projects
 
-- **Portfolio**: A portable curriculum vitae showcasing my experience concisely.  
-  [Detailed description](https://personal3710049.gitlab.io/jppm_cs/myself/)
+- **Nand2tetris**: Individual Implementation of each project from nand2tetris self-taught course.
+    Detailed description → [Nand2tetris](https://github.com/juanpabloinformatica/nand2tetris))
+  
+  -**Part1: Hardware (DONE)**: I build a general-pourpose computer equipped with a symbolic machine languague and an assembler. I did step by step, all the implementation steps can be seem in my youtube channel. For the assembler I used c++, I am interested in lower-level languagues.
+
+
+  -**Part2: Software (IN PROGRESS)**: I will build a multi-tier software hierarchy consisting of a virtual machine, a compiler for a simple java-like programming language, and a basic operating system.
+  Currently I built the virtual machine, but the first part, now I am working in implementing the function call logic with a FIFO logic for saving stack frames and allow higher abstractions for the hack languague.
+  
 - **Multiplatform game (IN PROGRESS)**
     
     Game platform where people around the world can compete in different games, for the moment can be played the with multiplayer modality. Backend server  with websockets and broadcast circle positions that are rendered from the client
@@ -45,8 +61,6 @@ I'm a passionate software engineer specializing in full-stack development and De
 
 - **Werewolf Game**: Created a mobile Werewolf game following the MVC architecture and test-driven development with Cypress and Supertest. Developed in Node.js, Express, React Native, and SQLite, and deployed on Scalingo via a CI/CD pipeline using GitLab CI.
 
-- **Compiler**: Implemented a compiler for the Deca programming language using Java and ANTLR4.
-
 ## 🎓 Education
 
 **Grenoble INP - Ensimag** - Grenoble, France  
@@ -59,9 +73,8 @@ Bachelor in Systems and Computer Engineering; GPA: 4.39
 
 ## 💻 Programming Skills
 
-- **Languages**: C, Bash, Java, Go, Python, Node.js, Typescript, OCaml, JavaScript, HTML, CSS, SCSS
+- **Languages**: C, C++, Bash, Java, Go, Python 
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Frameworks**: FastAPI, React, React Native, Express
 - **Tools**: Git, Linux, Vim
 
 ## 🌐 Languages
